@@ -6,16 +6,45 @@
 
 /* Color Palette */
 .color-1 {
-    background: #c9d661;
+    background: #d6fffb;
 }
 
 .color-2 {
-    background: #2c39d5;
+    background: #82e2ed;
 }
+
+.color-3 {
+    background:#44baff;
+}
+
+.color-4 {
+    background:#84ffbf;
+}
+
+.color-5 {
+    background:#43dba8;
+}
+
 
 /* Textures or Patterns*/
 .pattern-1 {
-    background: url("../img/topography.png")    ;
+    background: url("../img/seigaiha.png")    ;
+}
+
+.pattern-2 {
+    background: url("../img/swirl_pattern.png")    ;
+}
+
+.pattern-3 {
+    background: url("../img/new_year_background.png")    ;
+}
+
+.pattern-4 {
+    background: url("../img/subtle_white_mini_waves.png")    ;
+}
+
+.pattern-5 {
+    background: url("../img/silver_scales.png")    ;
 }
 
 /* Imagery */
